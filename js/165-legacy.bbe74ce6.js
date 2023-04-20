@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkcli"]=self["webpackChunkcli"]||[]).push([[165],{9165:function(n,u,e){e.r(u),e.d(u,{default:function(){return o}});var r=e(3396),t=function(n){return(0,r.dD)("data-v-069b70ed"),n=n(),(0,r.Cn)(),n},c=t((function(){return(0,r._)("h1",null," Ошибка 404 страница не найдена ",-1)})),a=[c];function d(n,u,e,t,c,d){return(0,r.wg)(),(0,r.iD)("div",null,a)}var i={},l=e(89);const f=(0,l.Z)(i,[["render",d],["__scopeId","data-v-069b70ed"]]);var o=f}}]);
+//# sourceMappingURL=165-legacy.bbe74ce6.js.map
